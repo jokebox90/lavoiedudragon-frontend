@@ -9,6 +9,7 @@
     "dev": "parcel src/index.html"
   },
   "devDependencies": {
+    "daisyui": "^3.4.0",
     "parcel": "^2.9.3",
     "postcss": "^8.4.27",
     "tailwindcss": "^3.3.3"
