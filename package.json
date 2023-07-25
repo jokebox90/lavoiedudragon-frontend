@@ -2,8 +2,15 @@
   "name": "lavoiedudragon-frontend",
   "version": "1.0.0",
   "description": "Projet HTML/CSS pout La Voie Du Dragon",
-  "main": "index.js",
   "author": "Franck CEYSSAT",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "scripts": {
+    "dev": "parcel src/index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "postcss": "^8.4.27",
+    "tailwindcss": "^3.3.3"
+  }
 }
