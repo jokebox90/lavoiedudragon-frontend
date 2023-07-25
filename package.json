@@ -1,0 +1,9 @@
+{
+  "name": "lavoiedudragon-frontend",
+  "version": "1.0.0",
+  "description": "Projet HTML/CSS pout La Voie Du Dragon",
+  "main": "index.js",
+  "author": "Franck CEYSSAT",
+  "license": "MIT",
+  "private": true
+}
